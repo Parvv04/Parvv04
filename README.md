@@ -11,6 +11,10 @@ I'm a passionate coder who loves turning ideas into reality through clean code a
 ![](https://github-readme-stats.vercel.app/api?username=Parvv04&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Parvv04&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parvv04&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![LeetCode Stats](https://leetcard.jacoblin.cool/parvv_04)
+![LeetCode](https://leetcard.jacoblin.cool/Parvv04?theme=unicorn)
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Parvv04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
