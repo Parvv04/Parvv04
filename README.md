@@ -13,6 +13,8 @@ I'm a passionate coder who loves turning ideas into reality through clean code a
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parvv04&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # 🧠 LeetCode Status:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/parvv_04)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/parvv_04)
+
 
 
 ## 🏆 GitHub Trophies
