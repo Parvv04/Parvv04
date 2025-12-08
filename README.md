@@ -25,8 +25,8 @@ I'm a passionate coder who loves turning ideas into reality through clean code a
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Parvv04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
