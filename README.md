@@ -1,4 +1,6 @@
-<h1 align="center">Hi! I'm Parvathi Pratap H</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi!+I'm+Parvathi+Pratap+H" alt="Typing SVG" />
+</h1>
 - Computer Science undergraduate at RRCE (2027).<br>
 - Building web applications, automation tools, and software projects with Python, JavaScript, and React.<br>
 - Projects: Gmail Meeting Notifier (Gmail API + NLP), Smart Health Monitoring System (OpenCV + MediaPipe).<br>
