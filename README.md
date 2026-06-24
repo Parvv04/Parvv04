@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parvathi Pratap H</h1>
-💻 Computer Science undergraduate at RRCE (2027).
-
-🚀 Building web applications, automation tools, and software projects with Python, JavaScript, and React.
-
-🔹 Projects: Gmail Meeting Notifier (Gmail API + NLP), Smart Health Monitoring System (OpenCV + MediaPipe).
-
-🌍 International Services Director @ Rotaract | Open Source Contributor @ GSSoC 2025.
-
-📚 Always learning, building, and exploring new technologies.
+💻 Computer Science undergraduate at RRCE (2027).<br>🚀 Building web applications, automation tools, and software projects with Python, JavaScript, and React.<br>🔹 Projects: Gmail Meeting Notifier (Gmail API + NLP), Smart Health Monitoring System (OpenCV + MediaPipe).<br>🌍 International Services Director @ Rotaract | Open Source Contributor @ GSSoC 2025.<br>📚 Always learning, building, and exploring new technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parvathi-p-3707552a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parvathi.pratap.h@gmail.com) 
@@ -23,7 +15,7 @@
 ### 📌 Smart Health Monitoring System
 
 * Real-time health monitoring using computer vision
-* Built with Python, OpenCV, MediaPipe, and TensorFlow Lite
+* Built with Python, OpenCV, MediaPipe
 * Detects drowsiness, poor posture, and unhealthy screen-time habits
 
 ### 📌 Gesture Controlled Assistive Mobility & Communication System
