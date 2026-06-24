@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Parvathi Pratap H</h1>
+<h1 align="center">Hi! I'm Parvathi Pratap H</h1>
 - Computer Science undergraduate at RRCE (2027).<br>
 - Building web applications, automation tools, and software projects with Python, JavaScript, and React.<br>
 - Projects: Gmail Meeting Notifier (Gmail API + NLP), Smart Health Monitoring System (OpenCV + MediaPipe).<br>
@@ -7,7 +7,7 @@
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parvathi-p-3707552a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parvathi.pratap.h@gmail.com) 
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### MailMinder
 
