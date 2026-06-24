@@ -74,7 +74,6 @@
 ![venv](https://img.shields.io/badge/venv-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Parvv04&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Parvv04&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parvv04&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
